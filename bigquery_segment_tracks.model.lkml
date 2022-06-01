@@ -6,6 +6,7 @@ include: "*.view"
 # include all dashboards in this project
 include: "*.dashboard"
 
+#test test test
 explore: sessions_trk {
   join: session_trk_facts {
     view_label: "sessions"
